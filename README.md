@@ -26,7 +26,7 @@ For querying and analyzing the sales data stored in the database. Power BI (Opti
 **Revenue Generation:** The analysis identifies which product lines, cities, and branches contribute the highest revenue, as well as the payment methods with the most transactions.   
 **VAT Analysis:** The contribution of Value Added Tax (VAT) across different product lines and cities is also analyzed to understand the tax impact on sales.  
 
-**Key Questions Addressed:** 
+**Key Questions Addressed:**   
 What are the best-performing product lines and branches?   
 How do customer types and genders influence purchasing behavior?   
 What are the most frequent payment methods used by customers?   
